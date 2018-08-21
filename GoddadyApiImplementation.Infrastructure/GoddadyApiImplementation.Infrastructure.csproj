@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GoddadyApiImplementation.Domains\GoddadyApiImplementation.Domains.csproj" />
+    <ProjectReference Include="..\GoddadyApiImplementation.Service\GoddadyApiImplementation.Service.csproj" />
+    <ProjectReference Include="..\GoddadyApiImplementation.Shared\GoddadyApiImplementation.Shared.csproj" />
+  </ItemGroup>
+
+</Project>
