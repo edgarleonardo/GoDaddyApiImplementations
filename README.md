@@ -12,3 +12,5 @@ The Api is open to add new kind of GoDaddy services, only needs to be added into
 
 The  main purpose of this Api is being able to integrate any kind of application with the GoDaddy stack to automate processes.
 
+## Docker Support
+This Api has support with Docker and is ready to be use with it.
