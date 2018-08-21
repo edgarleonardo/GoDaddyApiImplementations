@@ -14,3 +14,6 @@ The  main purpose of this Api is being able to integrate any kind of application
 
 ## Docker Support
 This Api has support with Docker and is ready to be use with it.
+
+## Unit Testing
+This Api has unit testing to validate the functionalities required in the scope.
